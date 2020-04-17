@@ -1,4 +1,3 @@
-// this is gonna be the main page for the assignment 
 <!DOCTYPE html>
 <html>
   <head>
@@ -6,7 +5,33 @@
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
-  <h1>VibeCheck</h1>
-  
+  <div class="paragraph" id="header">
+    <h1>VibeCheck</h1>
+  </div>
+  <div class="paragraph" id="pInfo">
+    <h2>Personal Information</h2>
+    <p>The members of VibeCheck are Stephen Mccluskey, William Scott, Ella Watts and Daniel Zaknic</p>
+    
+    //// put your personal info paragraphs here
+    
+  </div>
+  <div class="paragraph" id="personality">
+    <h2>Team Profile</h2>
+    
+    ////insert personality types info here
+    
+  </div>
+  <div class="paragraph" id="jobs">
+    <h2>Ideal Jobs</h2>
+    
+    ////insert ideal jobs info here
+    
+  </div>
+  <div class="paragraph" id="tools">
+    <h2>Tools</h2>
+    
+    ////insert tools info here
+    
+  <div>
   </body>
 </html>
