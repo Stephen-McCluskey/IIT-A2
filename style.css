@@ -49,3 +49,9 @@ a, a:visited {
 a:hover {
   text-decoration: underline;
 }
+
+.content {
+  background-color: #434b4f;
+  margin: 0 -15%;
+  padding: 0 14%;
+}
