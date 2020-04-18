@@ -10,9 +10,17 @@
   </div>
   <div class="paragraph" id="pInfo">
     <h2>Personal Information</h2>
-    <p>The members of VibeCheck are Stephen Mccluskey, William Scott, Ella Watts and Daniel Zaknic</p>
+    <p>The members of VibeCheck are Stephen Mccluskey, William Scott, Ella Watts and Daniel Zaknic.</p>
     
     //// put your personal info paragraphs here
+    
+    <p>
+      I’m Ella (s3851446), and I’ve lived in Brisbane, Queensland for most of my life. One of my hobbies is learning languages - 
+      I have reached an intermediate level in French, and I am looking at learning Dutch next. 
+      I am interested in IT because I enjoy problem solving and using logic-based thinking skills, but I am also attracted to the creativity 
+      that is required in some IT roles. However, I have very little IT experience outside of this course - I have only done 
+      some basic HTML, CSS and javascript with Codecademy, as well as an introductory R course during a previous degree. 
+    </p>
     
   </div>
   <div class="paragraph" id="personality">
