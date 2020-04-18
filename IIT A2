@@ -12,7 +12,7 @@
     <h2>Personal Information</h2>
     <p>The members of VibeCheck are Stephen Mccluskey, William Scott, Ella Watts and Daniel Zaknic.</p>
     
-    <-- put your personal info paragraphs here -->
+    <!-- put your personal info paragraphs here -->
     
     <p>
       I’m Ella (s3851446), and I’ve lived in Brisbane, Queensland for most of my life. One of my hobbies is learning languages - 
@@ -44,13 +44,13 @@
   <div class="paragraph" id="jobs">
     <h2>Ideal Jobs</h2>
     
-    <-- insert ideal jobs info here -->
+    <!-- insert ideal jobs info here -->
     
   </div>
   <div class="paragraph" id="tools">
     <h2>Tools</h2>
     
-    <-- insert tools info here -->
+    <!-- insert tools info here -->
     
   <div>
   </body>
