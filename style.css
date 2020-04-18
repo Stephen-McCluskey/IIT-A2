@@ -14,8 +14,13 @@ html {
   font-weight: 500;
 }
 
+body {
+  background-image: url('images/texture.jpg');
+}
+
 h1 {
   font-family: 'Montserrat';
   font-weight: 900;
   font-size: 6em;
+  color: #ffffff;
 }
