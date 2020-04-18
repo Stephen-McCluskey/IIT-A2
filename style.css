@@ -55,3 +55,8 @@ a:hover {
   margin: 0 -15%;
   padding: 0 14%;
 }
+
+.tophead {
+  padding-right: 15%;
+  margin-right: -15%;
+}
