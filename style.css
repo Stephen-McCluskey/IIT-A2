@@ -1,1 +1,9 @@
 
+@font-face {
+  font-family: 'Montserrat';
+}
+
+html {
+  font-family: 'Montserrat';
+  font-weight: 500;
+}
