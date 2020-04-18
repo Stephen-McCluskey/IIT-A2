@@ -23,8 +23,10 @@ body {
 h1 {
   font-family: 'Montserrat';
   font-weight: 900;
-  font-size: 12.9vw;
+  font-size: 12.8vw;
   color: #ffffff;
+  margin-top: 8vw;
+  padding-bottom: 4vw;
 }
 
 a, a:visited {
