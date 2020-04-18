@@ -29,6 +29,10 @@ h1 {
   padding-bottom: 4vw;
 }
 
+p {
+  text-align: justify;
+}
+
 a, a:visited {
   color: #f24f09;
   text-decoration: none;
