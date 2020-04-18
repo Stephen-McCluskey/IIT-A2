@@ -26,3 +26,12 @@ h1 {
   font-size: 6em;
   color: #ffffff;
 }
+
+a {
+  color: #f24f09;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+)
