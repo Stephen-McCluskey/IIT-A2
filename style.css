@@ -27,7 +27,7 @@ h1 {
   color: #ffffff;
 }
 
-a {
+a, a:visited {
   color: #f24f09;
   text-decoration: none;
 }
