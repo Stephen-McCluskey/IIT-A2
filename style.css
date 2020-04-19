@@ -62,3 +62,24 @@ a:hover {
   padding-right: 15%;
   margin-right: -15%;
 }
+
+.navbar {
+    background-color:#363636;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-left: -11%;
+}
+
+.navbar a {
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Montserrat', Arial;
+  }
+
+.navbar a:hover {
+  color: #f24f09;
+}
