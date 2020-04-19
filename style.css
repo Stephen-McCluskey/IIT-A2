@@ -40,6 +40,7 @@ h3 {
   font-family: 'Montserrat';
   font-weight: 500;
   font-style: italic;
+  color:#424f09;
 }
 
 p {
@@ -106,6 +107,5 @@ a:hover {
 
 .nobox {
   background: none;
-  color: #f24f09;
   font-weight: 500;
 }
