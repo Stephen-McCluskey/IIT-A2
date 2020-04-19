@@ -84,3 +84,11 @@ a:hover {
   color: #f24f09;
   text-decoration: none;
 }
+
+.refdiv p {
+  text-align: left;
+  text-shadow: none;
+  font-size: 0.7em;
+  text-indent: -2em;
+  padding-left: 2em;
+}
