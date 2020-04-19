@@ -42,11 +42,6 @@ h3 {
   font-style: italic;
 }
 
-p {
-  text-align: justify;
-  text-shadow: 0px 0px 10px rgb(0,0,0);
-}
-
 a, a:visited {
   color: #f24f09;
   text-decoration: none;
