@@ -91,6 +91,11 @@ a:hover {
   text-decoration: none;
 }
 
+.refdiv h3 {
+  font-style: inherit;
+  font-size: 1em;
+}
+
 .refdiv p {
   text-align: left;
   text-shadow: none;
