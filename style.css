@@ -103,3 +103,9 @@ a:hover {
   text-indent: -2em;
   padding-left: 2em;
 }
+
+.nobox {
+  background: none;
+  color: #f24f09;
+  font-weight: 500;
+}
