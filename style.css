@@ -82,4 +82,5 @@ a:hover {
 
 .navbar a:hover {
   color: #f24f09;
+  text-decoration: none;
 }
