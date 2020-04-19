@@ -70,7 +70,8 @@ a:hover {
     position: sticky;
     top: 0;
     width: 100vw;
-    margin-left: -11vw;
+    margin-left: -10vw;
+    padding-left: 1vw;
     padding-top: 1vw;
     padding-bottom: 1vw;
 }
